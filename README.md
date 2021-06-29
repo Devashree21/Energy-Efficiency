@@ -21,4 +21,4 @@ This dataset contains 768 entries and 10 attributes related to Building Energy E
 
 This project has been entirely completed in Jupyter IDE with Python 3.8.5 and the model has been trained using scikit-learn framework.
 
-Libraries used: Pandas, NumPy, Matplotlib and Seaborn jjjjjj
+Libraries used: Pandas, NumPy, Matplotlib and Seaborn
