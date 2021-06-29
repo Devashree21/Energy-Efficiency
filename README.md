@@ -1,14 +1,24 @@
-# Energy-Efficiency
-Source:
+# energy-efficiency-prediction-machine-learning
+machine learning model for Heating & Cooling Load Prediction for Building Energy Efficiency 
 
-The dataset was created by Angeliki Xifara (angxifara '@' gmail.com, Civil/Structural Engineer) and was processed by Athanasios Tsanas (tsanasthanasis '@' gmail.com, Oxford Centre for Industrial and Applied Mathematics, University of Oxford, UK).
+**Here is a short FAQ about this repository**
 
-Attribute Information:
+**1) What is this repository about?**
 
-The dataset contains eight attributes (or features, denoted by X1...X8) and two responses (or outcomes, denoted by y1 and y2). The aim is to use the eight features to predict each of the two responses.
+This repository is contains a Machine Learning model for Heating & Cooling Load Prediction for Building Energy Efficiency.
 
-Specifically:
+It includes the jupyter notebook (.ipynb), .csv file and a readme.
 
-X1 Relative Compactness, X2 Surface Area, X3 Wall Area, X4 Roof Area, X5 Overall Height, X6 Orientation, X7 Glazing Area, X8 Glazing Area Distribution,
+**2) Which dataset has been used and where to find it?**
 
-y1 Heating Load,y2 Cooling Load
+The dataset was created by Angeliki Xifara (angxifara '@' gmail.com, Civil/Structural Engineer) and was processed by Athanasios Tsanas (tsanasthanasis '@' gmail.com, Oxford Centre for Industrial and Applied Mathematics, University of Oxford, UK). Dataset available at https://archive.ics.uci.edu/ml/datasets/energy+efficiency
+
+**3) What does the dataset contain?**
+
+This dataset contains 768 entries and 10 attributes related to Building Energy Efficiency.
+
+**4) Which tool and which libraries have been used in this project?**
+
+This project has been entirely completed in Jupyter IDE with Python 3.8.5 and the model has been trained using scikit-learn framework.
+
+Libraries used: Pandas, NumPy, Matplotlib and Seaborn
